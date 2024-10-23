@@ -212,7 +212,8 @@ if __name__ == "__main__":
 
 <h2>Sample Input and Output:</h2>
 
-![out](Op1-ai7.png)
+![Op1-ai7](https://github.com/user-attachments/assets/e898aa3a-c32b-4a59-ba6b-6089b042d106)
+
 
 <h2>RESULT</h2>
  Thus, Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game is implemented successfully using Python.
